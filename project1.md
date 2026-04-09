@@ -30,6 +30,9 @@ Fig 2. Lab 4, problem 3.
 ![screenshot](images/lab5.png)  
 Fig 3. Feedback when an error occurs.
 
+![screenshot](images/lab5_html.png)  
+Fig 4. HTML code for lab5. 
+
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
