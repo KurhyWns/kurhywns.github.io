@@ -27,7 +27,7 @@ Fig 1. About Me screen
 ![screenshot](images/lab4.png)  
 Fig 2. Lab 4, problem 3. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/lab5.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
