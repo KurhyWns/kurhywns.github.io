@@ -5,14 +5,15 @@ logo: "/images/portfolio_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2040)
+  Bachelor of Technology in Computer-Science (class of 2026)
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/kori-h-19557814/?skipRedirect=true/">View My LinkedIn Profile</a>
+  <br/><br/>
+  < href="https://app.joinhandshake.com/profiles/hbegjm">View My Handshake Profile<a/>
+repository: "kurhywns/kurhywns.github.io"
+github_username:  kurhywns # update with your username
 
 # Build setting
 theme: jekyll-theme-minimal
