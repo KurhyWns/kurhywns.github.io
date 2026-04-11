@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/about_me.png)
 
 ---
-### [Project 2 Title | CSCI 235](project1)
+### [Project 2 Title | CSCI 235](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
