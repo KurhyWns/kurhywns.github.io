@@ -25,7 +25,7 @@ github link: https://github.com/KurhyWns/csci235
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/ethicsessay.pdf)
+### [Ethics in Data Harvesting: The Importance of Informed Consent](/pdf/ethicsessay.pdf)
 
 -   **Class:CSCI 235**  
 -   **Grade:**
