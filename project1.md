@@ -6,8 +6,8 @@ CSCI_332 Network Application
 -   **Class: Applied Networking**
 -   **Grade:** 
 -   **Language(s):HTML & CSS** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/KurhyWns/csci332)  
+    (Please [email me](mailto:kwhanes@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
