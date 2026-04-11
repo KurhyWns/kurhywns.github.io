@@ -12,7 +12,7 @@ C++ Class
 
 ## Project description
 
-This project is part of an ongoing, "living", project. We have been steadily updating each lab, progressing from Lab 1 to Lab 7. Each lab showcases a new set of skills that are being developed in this Applied Networking class. We began with HTML lessons; title, body, paragraphs. These HTML lessons were combined with lectures on networking. We are learning the history of the internet and networking, along with the devices and protocols that create a network. 
+For this class our focus was programmingin the C++ language. 
 
 
 ## UI Design
