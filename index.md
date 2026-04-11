@@ -11,14 +11,14 @@ Programming Projects
 
 ![Project 1 Thumbnail about_me.png](images/about_me.png)
 
-![github link:](https://github.com/KurhyWns/csci332)
+[github link:](https://github.com/KurhyWns/csci332)
 
 ---
 ### [Project 2 - Battleship game project on the command line interface! | CSCI 235](project2)
 
 ![Project 2 Thumbnail main_function](images/235/235_main.png)
 
-![github link:](https://github.com/KurhyWns/csci235)
+[github link:](https://github.com/KurhyWns/csci235)
 
 ---
 
