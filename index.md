@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Project 2 Title | CSCI 235](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/235/235_main.png)
 
 ---
 
