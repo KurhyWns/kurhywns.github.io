@@ -7,14 +7,14 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 332](project1)
+### [Project 1 - Kori Wayne Website, all about me! | CSCI 332](project1)
 
-![Project 1 Thumbnail Name](images/about_me.png)
+![Project 1 Thumbnail about_me.png](images/about_me.png)
 
 ---
-### [Project 2 Title | CSCI 235](project2)
+### [Project 2 - Battleship game project on the command line interface! | CSCI 235](project2)
 
-![Project 2 Thumbnail Name](images/235/235_main.png)
+![Project 2 Thumbnail main_function](images/235/235_main.png)
 
 ---
 
@@ -23,7 +23,7 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/ethicsessay.pdf)
 
--   **Class:**  
+-   **Class:CSCI 235**  
 -   **Grade:**
 
 ---
