@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Personal Website Project 
+CSCI_332 Network Application 
 ===============
 
 -   **Class: Applied Networking**
