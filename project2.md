@@ -7,7 +7,7 @@ CSCI_235 C++ Class
 -   **Class: C++**
 -   **Grade:** 
 -   **Language(s):C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/KurhyWns/csci235)  
+-   **Source Code Repository:** [KurhyWns/csci235](https://github.com/KurhyWns/csci235)  
     (Please [email me](mailto:kwhanes@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
