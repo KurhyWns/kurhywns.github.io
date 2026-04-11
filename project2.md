@@ -31,8 +31,6 @@ Fig 2. Lab 4, problem 3.
 ![screenshot](images/235/235_functions.png)  
 Fig 3. Feedback when an error occurs.
 
-![screenshot](images/lab5_html.png)  
-Fig 4. HTML code for lab5. 
 
 ## 3. Additional Considerations
 
