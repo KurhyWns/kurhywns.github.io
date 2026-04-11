@@ -1,7 +1,7 @@
 
 [Back to Portfolio](./)
 
-C++ Class
+CSCI_235 C++ Class
 ===============
 
 -   **Class: C++**
