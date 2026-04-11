@@ -28,7 +28,7 @@ Fig 1. About Me screen
 ![screenshot](images/235/235_gameboard.png)  
 Fig 2. Lab 4, problem 3. 
 
-![screenshot](images/lab5.png)  
+![screenshot](images/235/235_functions.png)  
 Fig 3. Feedback when an error occurs.
 
 ![screenshot](images/lab5_html.png)  
