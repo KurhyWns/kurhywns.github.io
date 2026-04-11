@@ -22,7 +22,7 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 
 
-![screenshot](images/about_me.png)  
+![screenshot](images/235/235_main.png)  
 Fig 1. About Me screen
 
 ![screenshot](images/lab4.png)  
