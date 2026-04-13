@@ -27,7 +27,7 @@ Ethics Papers
 
 ### [Ethics in Data Harvesting: The Importance of Informed Consent](/pdf/ethicsessay.pdf)
 
--   **Class:CSCI 235**  
+-   **Class: CSCI 328**  
 -   **Grade:**
 
 ---
@@ -35,13 +35,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title: ]((https://youtu.be/943WSykzXzE))
 
-- **Class:** 
+- **Class: CSCI 328** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title: ](https://www.youtube.com/watch?v=XxwckqTLwHw&t=4s)
 
 - **Class:** 
 - **Grade:**
