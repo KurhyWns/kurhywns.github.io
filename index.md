@@ -50,7 +50,7 @@ Presentations
 
 Resume
 -------------
-
+[View my PDF](/pdf/Top_Page.pdf)   
 ### [Resume](/pdf/resume_APR_2026_pdf.pdf)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
