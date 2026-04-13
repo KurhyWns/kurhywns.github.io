@@ -35,15 +35,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title: ]((https://youtu.be/943WSykzXzE))
+### [Lab 6 Presentation: ]((https://youtu.be/943WSykzXzE))
 
-- **Class: CSCI 328** 
+- **Class: CSCI 332** 
 - **Grade:**
 
 
-### [Presentation 2 Title: ](https://www.youtube.com/watch?v=XxwckqTLwHw&t=4s)
+### [Lab 5 Presentation: ](https://www.youtube.com/watch?v=XxwckqTLwHw&t=4s)
 
-- **Class:** 
+- **Class: CSCI 332** 
 - **Grade:**
 
 ---
