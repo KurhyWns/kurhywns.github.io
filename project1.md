@@ -11,7 +11,7 @@ CSCI_332 Network Application
 
 ## Project description
 
-This project is part of an ongoing, "living", project. We have been steadily updating each lab, progressing from Lab 1 to Lab 7. Each lab showcases a new set of skills that are being developed in this Applied Networking class. We began with HTML lessons; title, body, paragraphs. These HTML lessons were combined with lectures on networking. We are learning the history of the internet and networking, along with the devices and protocols that create a network. 
+This project is part of an ongoing, "living", project. We have been steadily updating each lab, progressing from Lab 1 to Lab 7. Each lab showcases a new set of skills that are being developed in this Applied Networking class. We began with HTML lessons; title, body, paragraphs. These HTML lessons were combined with lectures on networking. We are learning the history of the internet and networking, along with the devices and protocols that create a network. This class is introducing us to full stack development in a LAMP stack. LAMP stands for Linux, Apache, MySQP, PHP. See section 3 for instructions to host the webiste locally. 
 
 
 ## UI Design
@@ -35,7 +35,14 @@ Fig 4. HTML code for lab5.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+- This project only requires a few simple tools. If you are only viewing the project via a web browser and interacting with its functionality, all links are accessible in the normal fasion that any HTML/Web document operates. Point and click on the link and you can follow it through the different labs.
+- If you are hosting the project locally, you will need the following software:
+    - Oracle VirtualBox
+    - Ubuntu virtual machine
+- Ubuntu must have the following installed:
+    - Apache Web Server
+    - PHP
+    - MySQL
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
