@@ -8,6 +8,7 @@ CSCI_332 Network Application
 -   **Language(s):HTML & CSS** 
 -   **Source Code Repository:** [KurhyWns/csci332](https://github.com/KurhyWns/csci332)  
     (Please [email me](mailto:kwhanes@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+-   [github link - KurhyWns/csci235:](https://github.com/KurhyWns/csci235)
 
 ## 1. Project description
 
