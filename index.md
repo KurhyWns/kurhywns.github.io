@@ -35,7 +35,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Lab 6 Presentation: ]((https://youtu.be/943WSykzXzE))
+### [Lab 6 Presentation: ](https://youtu.be/943WSykzXzE)
 
 - **Class: CSCI 332** 
 - **Grade:**
