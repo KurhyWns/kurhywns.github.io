@@ -50,8 +50,11 @@ Presentations
 
 Resume
 -------------
-[View my PDF](/pdf/Top_Page.pdf)   
+
 ### [Resume](/pdf/resume_APR_2026_pdf.pdf)
+<embed src="/pdf/Top_Page.pdf" type="application/pdf" width="100%" height="600px" />   
+   
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
