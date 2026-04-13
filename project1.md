@@ -28,7 +28,7 @@ Fig 1. About Me screen
 Fig 2. Lab 4, problem 3. 
 
 ![screenshot](images/lab5.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Installing required software..
 
 ![screenshot](images/lab5_html.png)  
 Fig 4. HTML code for lab5. 
