@@ -51,8 +51,8 @@ Presentations
 Resume
 -------------
 
-### [Resume](/pdf/resume_APR_2026_pdf.pdf)
-<embed src="/pdf/Top_Page.pdf" type="application/pdf" width="100%" height="600px" />   
+### [Click here to view resume is separate window](/pdf/resume_APR_2026_pdf.pdf)
+<embed src="/pdf/resume_APR_2026_pdf.pdf" type="application/pdf" width="100%" height="600px" />   
    
 
 
