@@ -44,6 +44,9 @@ This software was written in a programming language known as C++. C++ must go th
         - `g++ Battleship.cpp -o Battleship`
     - Run the compiled code using the commands for the compiler and OS you are using; for Linux the commands are
         - `./Battleship`
+    - Instructions for powershell are:
+        - `g++ Final_Project/Battleship.cpp -o battleship.exe`
+        - `.\battleship.exe`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
